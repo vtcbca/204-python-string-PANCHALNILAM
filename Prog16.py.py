@@ -1,8 +1,8 @@
 a =input("Enter the string:")
 if(a[::-1]):
-   print(" palindrom .")
+   print("The string is  palindrom .")
 else:
-    print("Not a palindrom.")
+    print("The string is  Not a palindrom.")
     
 
     
